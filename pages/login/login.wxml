@@ -1,0 +1,13 @@
+<view class="login-container">
+    <view class="page-top">
+        <text class="page-top-slogan">SimpleList</text>
+    </view>
+    <view>
+        <input placeholder="Username"/>
+        <input placeholder="Password"/>
+        <view class="page-btn-wrap">
+            <button class="page-btn" bindtap="userLogin">登陆</button>
+        </view>
+    </view>
+
+</view>

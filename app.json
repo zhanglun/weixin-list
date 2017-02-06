@@ -1,0 +1,15 @@
+{
+    "pages": [
+        "pages/login/login",
+        "pages/index/index",
+        "pages/album/album"
+    ],
+
+    "window": {
+        "backgroundTextStyle": "dark",
+        "navigationBarBackgroundColor": "#373b3e",
+        "navigationBarTitleText": "SimpleList",
+        "windowBackground": "#1c1b16",
+        "navigationBarTextStyle": "white"
+    }
+}

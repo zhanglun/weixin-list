@@ -1,0 +1,13 @@
+/* pages/login/login.wxss */
+.login-container {
+    width: 100%;
+    height: 100%;
+    background: #fff;
+}
+.page-top-slogan {
+    display: block;
+    font-size: 22px;
+    color: #000;
+    text-align: center;
+    padding: 2em 1em;
+}
